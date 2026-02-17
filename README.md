@@ -267,6 +267,9 @@ Each article is evaluated under **both** models:
 
 ## 🖥️ Streamlit GUI
 
+![BBC Urdu NLP — Streamlit Interface](assets/UI.png)
+*Full interface showing the editorial newsroom aesthetic with RTL Urdu text, article generation tab, and perplexity evaluation panel.*
+
 An editorial newsroom-styled GUI built with Streamlit featuring:
 
 - **4 tabs:** Generate Article · Headlines · Evaluation · How to Use
